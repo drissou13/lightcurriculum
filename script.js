@@ -1,5 +1,5 @@
 const cvData = {
-    "Contact": "📞 06 09 36 33 22 | 📧 driss.boukhamla@gmail.com | 📍 21 rue Sainte Victorine, 13003 Marseille",
+    "Contact": "📞 06  | 📧 driss.boukhamla@gmail.com | 📍 21 rue , 13003 Marseille",
     "Expérience": `
         - 🎬 Monteur et preneur de son - LES TÊTES DE L’ART (2017 - 2019)<br>
         - 🎥 Agent Multimédia - URBANPROD (2015 - 2017)<br>
@@ -10,10 +10,10 @@ const cvData = {
     "Formations": `
         - 📜 Certification Wordpress (2017)<br>
         - 📜 Certification Référent Digital (2016)<br>
-        - 🎓 Médiateur Accès Droit Services (2013)<br>
+        - 🎓 Médiateur Accès Droit Services (2023)<br>
         - 🎥 Formation Caméraman et Prise de Son (2018)<br>
         - 🎭 Certification Régie/Son/Lumières/Câblage (2019)<br>
-        - 🎨 Bac Pro Enseigne et Signalétique (2024)
+        - 🎨 Bac Pro Enseigne et Signalétique (2014)
     `,
     "Compétences": `
         - 🖥️ Développement et maintenance de sites web<br>
