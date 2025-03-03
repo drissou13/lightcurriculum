@@ -1,4 +1,4 @@
-const cvData = {
+     const cvData = {
     "Contact": "📞 06  | 📧 driss.boukhamla@gmail.com | 📍 21 rue , 13003 Marseille",
     "Expérience": `
         - 🎬 Monteur et preneur de son - LES TÊTES DE L’ART (2017 - 2019)<br>
