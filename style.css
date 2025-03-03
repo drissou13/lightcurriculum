@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+    flex-direction: column;
+}
+
+.container {
+    text-align: center;
+}
+
+.logo {
+    font-size: 50px;
+    font-weight: bold;
+    color: #4285F4;
+}
+
+.logo span {
+    color: #EA4335;
+}
+
+.search-box {
+    margin-top: 20px;
+}
+
+input {
+    width: 400px;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #dcdcdc;
+    border-radius: 20px;
+    outline: none;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 18px;
+    background: white;
+    border: none;
+    cursor: pointer;
+}
+
+#results {
+    margin-top: 20px;
+    text-align: left;
+}
